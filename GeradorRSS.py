@@ -1,0 +1,5 @@
+
+
+
+class GeradorRSS():
+    pass
